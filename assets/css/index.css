@@ -62,3 +62,12 @@ ol li a {
   font-size: 12px;
   padding-left: 15px;
 }
+header {
+  margin-bottom: 0;
+}
+section article ol {
+  margin-top: 0px;
+}
+ol li {
+  padding-top: 10px;
+}
